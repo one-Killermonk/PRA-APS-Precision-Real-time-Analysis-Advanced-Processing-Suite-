@@ -3,3 +3,10 @@ Image Processing Complex Computing Software. It provide a way to connect cameras
 Copy the Folder PRA-APS 1.0 as it is, run main.py , you get feed and setting, it use your default webcame to take image. if you want to use another one then change the index of camera in main.py
 use manager.py for setting the color range of mask in HSV and other type of settings allowed in the code.
 Region of Interest saved in json format in history.
+
+For Advanced Production Level Version - email at tard.dos@gmail.com
+Application of this production version.
+welding Detection and Inspection
+Celeant Detection and Inspection
+Color Pigment Inspection
+and many other image based and color based Inspection and seperation Masking system.
