@@ -1,0 +1,12 @@
+{
+  "b_min": 80,
+  "g_min": 40,
+  "r_min": 40,
+  "b_max": 185,
+  "g_max": 175,
+  "r_max": 165,
+  "threshold_pct": 80,
+  "overlay_alpha": 0.45,
+  "morph_kernel": 3,
+  "min_blob_area": 10
+}
