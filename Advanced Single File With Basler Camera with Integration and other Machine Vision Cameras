@@ -1,0 +1,8 @@
+For Basler Camera Integration, we need its pypylon. So first (pip install pypylon) then SDK from Basler Softwares pylon 25.08 and above.
+Using this pipline we get the image from basler camera, and we integrate this in our software.
+This version is used in production, so we dont public this version , if any one want this code , we provide  (email :- tard.dos@gmail.com) 
+Application of this production version.
+welding Detection and Inspection
+Celeant Detection and Inspection
+Color Pigment Inspection
+and many other image based and color based Inspection and seperation Masking system.
